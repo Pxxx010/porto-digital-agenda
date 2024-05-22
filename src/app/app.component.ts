@@ -11,20 +11,20 @@ export class AppComponent {
 
   contatos: Contato[] = [
     {
-      nome: "Fulano de Tal",
-      telefone: "81123456789",
+      nome: "Afonso Estevão Luna",
+      telefone: "8190000000",
       email: "fulano@empresa.com.br",
       tipo: 2
     },
     {
-      nome: "Beltrano de Tal",
-      telefone: "81234567981",
+      nome: "Luiz Paulo",
+      telefone: "8190000000",
       email: "beltrano@empresa.com.br",
       tipo: 2
     },
     {
-      nome: "Ciclano de Tal",
-      telefone: "81345678912",
+      nome: "Iago Vieira",
+      telefone: "8190000000",
       email: "ciclano@empresa.com.br",
       tipo: 1
     }
